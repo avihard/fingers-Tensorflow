@@ -1,1 +1,1 @@
-"# fingers-Tensorflow" 
+For run this file you have to use google colab and there you have to change the runtime to the GPU so the timing of training model was reduce. All you need to just follow the instructions which was mentioned in the notebook.
